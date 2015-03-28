@@ -1,2 +1,2 @@
 ---
-include: psql.yml
+- include: psql.yml
